@@ -1,0 +1,147 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE de
+
+---STRING code
+Code
+---STRINGEND
+
+---STRING cost
+Kosten
+---STRINGEND
+
+---STRING cost type
+Kostenart
+---STRINGEND
+
+---STRING day
+Tag
+---STRINGEND
+
+---STRING delivery type
+Auslieferungsart
+---STRINGEND
+
+---STRING display settings
+Anzeigeeinstellungen
+---STRINGEND
+
+---STRING export products
+Produkte exportieren
+---STRINGEND
+
+---STRING groups
+Produktgruppen
+---STRINGEND
+
+---STRING half-year
+Halbjahr
+---STRINGEND
+
+---STRING hour
+Stunde
+---STRINGEND
+
+---STRING material goods
+materielle Güter
+---STRINGEND
+
+---STRING month
+Monat
+---STRINGEND
+
+---STRING number of items in feed
+Anzahl der Einträge im Feed
+---STRINGEND
+
+---STRING org.openpsa.products
+Produkt-Datenbank
+---STRINGEND
+
+---STRING parent group
+Übergeordnete Gruppe
+---STRINGEND
+
+---STRING per unit
+pro Einheit
+---STRINGEND
+
+---STRING piece
+Stück
+---STRINGEND
+
+---STRING price
+Preis
+---STRINGEND
+
+---STRING product
+Produkt
+---STRINGEND
+
+---STRING product code %s already exists in database
+Der Produkt-Code "%s" ist bereits vergeben.
+---STRINGEND
+
+---STRING product database
+Produkt-Datenbank
+---STRINGEND
+
+---STRING product group
+Produktgruppe
+---STRINGEND
+
+---STRING product group schema database
+Schema-Datenbank für Produktgruppen
+---STRINGEND
+
+---STRING product schema database
+Schema-Datenbank für Produkte
+---STRINGEND
+
+---STRING products
+Produkte
+---STRINGEND
+
+---STRING quarter
+Quartal
+---STRINGEND
+
+---STRING root product group
+Oberste Produktgruppe
+---STRINGEND
+
+---STRING service
+Dienstleistung
+---STRINGEND
+
+---STRING single delivery
+einmalige Lieferung
+---STRINGEND
+
+---STRING solution
+Solution
+---STRINGEND
+
+---STRING subscription
+Abonnement
+---STRINGEND
+
+---STRING supplier
+Lieferant
+---STRINGEND
+
+---STRING toplevel
+Oberste Ebene
+---STRINGEND
+
+---STRING type
+Typ
+---STRINGEND
+
+---STRING unit
+Einheit
+---STRINGEND
+
+---STRING year
+Jahr
+---STRINGEND

@@ -1,0 +1,139 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE fi
+
+---STRING code
+Koodi
+---STRINGEND
+
+---STRING cost
+Kulu
+---STRINGEND
+
+---STRING cost type
+Kulutyyppi
+---STRINGEND
+
+---STRING day
+päivä
+---STRINGEND
+
+---STRING delivery type
+Toimitustapa
+---STRINGEND
+
+---STRING groups
+Tuoteryhmät
+---STRINGEND
+
+---STRING hour
+tunti
+---STRINGEND
+
+---STRING material goods
+Tavara
+---STRINGEND
+
+---STRING month
+kuukausi
+---STRINGEND
+
+---STRING number of items in feed
+Syötteen kohteiden lukumäärä
+---STRINGEND
+
+---STRING org.openpsa.products
+Tuotetietokanta
+---STRINGEND
+
+---STRING parent group
+Ylempi ryhmä
+---STRINGEND
+
+---STRING per unit
+per kappale
+---STRINGEND
+
+---STRING piece
+kappale
+---STRINGEND
+
+---STRING price
+Hinta
+---STRINGEND
+
+---STRING product
+Tuote
+---STRINGEND
+
+---STRING product database
+Tuotetietokanta
+---STRINGEND
+
+---STRING product group
+Tuoteryhmä
+---STRINGEND
+
+---STRING products
+Tuotteet
+---STRINGEND
+
+---STRING quarter
+kvartaali
+---STRINGEND
+
+---STRING service
+Palvelu
+---STRINGEND
+
+---STRING single delivery
+Kertatoimitus
+---STRINGEND
+
+---STRING solution
+Ratkaisu
+---STRINGEND
+
+---STRING subscription
+Toistuva tilaus
+---STRINGEND
+
+---STRING supplier
+Toimittaja
+---STRINGEND
+
+---STRING toplevel
+Päätaso
+---STRINGEND
+
+---STRING type
+Tyyppi
+---STRINGEND
+
+---STRING unit
+Yksikkö
+---STRINGEND
+
+---STRING year
+vuosi
+---STRINGEND
+
+---STRING display settings
+Näytä asetukset
+---STRINGEND
+
+---STRING export products
+Tuo tuotteet kannasta
+---STRINGEND
+
+---STRING product group schema database
+Tuoteryhmien tietokantakuvaus
+---STRINGEND
+
+---STRING product schema database
+Tuotteiden tietokantakuvaus
+---STRINGEND
+
+---STRING root product group
+Juuritason tuoteryhmä
+---STRINGEND

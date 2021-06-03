@@ -1,0 +1,147 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE en
+
+---STRING code
+Code
+---STRINGEND
+
+---STRING cost
+Cost
+---STRINGEND
+
+---STRING cost type
+Cost type
+---STRINGEND
+
+---STRING day
+day
+---STRINGEND
+
+---STRING delivery type
+Delivery type
+---STRINGEND
+
+---STRING display settings
+Display Settings
+---STRINGEND
+
+---STRING export products
+Export products
+---STRINGEND
+
+---STRING groups
+Product groups
+---STRINGEND
+
+---STRING half-year
+half year
+---STRINGEND
+
+---STRING hour
+hour
+---STRINGEND
+
+---STRING material goods
+Material goods
+---STRINGEND
+
+---STRING month
+month
+---STRINGEND
+
+---STRING number of items in feed
+Number of items in feed
+---STRINGEND
+
+---STRING org.openpsa.products
+Product database
+---STRINGEND
+
+---STRING parent group
+Parent group
+---STRINGEND
+
+---STRING per unit
+per unit
+---STRINGEND
+
+---STRING piece
+piece
+---STRINGEND
+
+---STRING price
+Price
+---STRINGEND
+
+---STRING product
+Product
+---STRINGEND
+
+---STRING product code %s already exists in database
+Product code "%s" already exists in database.
+---STRINGEND
+
+---STRING product database
+Product database
+---STRINGEND
+
+---STRING product group
+Product group
+---STRINGEND
+
+---STRING product group schema database
+Product group schema database
+---STRINGEND
+
+---STRING product schema database
+Product schema database
+---STRINGEND
+
+---STRING products
+Products
+---STRINGEND
+
+---STRING quarter
+quarter
+---STRINGEND
+
+---STRING root product group
+Root product group
+---STRINGEND
+
+---STRING service
+Service
+---STRINGEND
+
+---STRING single delivery
+Single delivery
+---STRINGEND
+
+---STRING solution
+Solution
+---STRINGEND
+
+---STRING subscription
+Subscription
+---STRINGEND
+
+---STRING supplier
+Supplier
+---STRINGEND
+
+---STRING toplevel
+Top level
+---STRINGEND
+
+---STRING type
+Type
+---STRINGEND
+
+---STRING unit
+Unit
+---STRINGEND
+
+---STRING year
+year
+---STRINGEND
